@@ -366,7 +366,7 @@ const Contact: React.FC = () => {
                       onChange={handleInputChange}
                       required
                       className="w-full px-4 py-3 glass-subtle rounded-lg text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500/50 transition-all duration-300"
-                      placeholder="muskan@example.com"
+                      placeholder="john@example.com"
                     />
                   </div>
                 </div>
