@@ -81,7 +81,7 @@ const Projects: React.FC = () => {
       ],
       category: 'Frontend',
       image: '💼',
-      link: 'https://myportfolio-kd45.onrender.com',
+      link: '#',
       github: 'https://github.com/muskanrajputsingh'    }
   ];
 
